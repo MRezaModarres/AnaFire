@@ -1,6 +1,7 @@
 <p align="center"><img src="resources/anafire_logo.png" alt="AnaFire" width="520"></p>
 
 # AnaFire
+   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24011764.svg)](https://doi.org/10.5281/zenodo.24011764)
 
 **An analytical wildland fire spread workbench with a graphical interface**
 
