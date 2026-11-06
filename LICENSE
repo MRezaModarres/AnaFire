@@ -1,0 +1,37 @@
+AnaFire — End User License Agreement
+
+Copyright (c) 2026 MohammadReza Modarres. All rights reserved.
+
+AnaFire is distributed free of charge as protected (compiled / P-coded)
+software. By installing or using AnaFire you agree to the following terms.
+
+1. Permitted use. You may install and use AnaFire free of charge for
+   research, teaching and other non-commercial purposes.
+
+2. Commercial use. Use of AnaFire in commercial or paid work requires the
+   prior written permission of the author.
+
+3. Restrictions. You may not:
+   (a) decompile, disassemble, reverse-engineer or otherwise attempt to
+       recover the source code of AnaFire;
+   (b) modify AnaFire or create derivative works from it;
+   (c) sell, rent, sublicense or redistribute AnaFire, in whole or in part,
+       other than by sharing a link to its official release page.
+
+4. Attribution. Publications, reports or presentations that use results
+   obtained with AnaFire must cite the software as given in CITATION.cff
+   or on its Zenodo record.
+
+5. Ownership. AnaFire and all copies remain the property of the author.
+   This license grants a right of use only; no ownership is transferred.
+
+6. No warranty. AnaFire is provided "as is", without warranty of any kind,
+   express or implied, including fitness for a particular purpose. Results
+   are model estimates and must not be used as the sole basis for decisions
+   affecting the safety of people or property.
+
+7. Limitation of liability. In no event shall the author be liable for any
+   claim, damages or other liability arising from the use of AnaFire.
+
+8. Termination. This license terminates automatically if you breach any of
+   its terms; you must then delete all copies of AnaFire.
